@@ -1,0 +1,6 @@
+{
+    "name": "Gardena",
+    "domains": ["sensor", "binary_sensor", "switch"],
+    "homeassistant": "0.107",
+    "render_readme": true
+}
